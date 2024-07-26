@@ -1,0 +1,9 @@
+Package: com.zznq.xcodedebugany
+Name: XcodeDebugAny
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: It can be easilier debug any process under rootless using Xcode.
+Maintainer: zznQ
+Author: zznQ
+Section: Tweaks
+Depends: preferenceloader (>= 2.0.0)
