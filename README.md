@@ -1,4 +1,4 @@
-# XcodeDebugAny <img width="5%" src="./Resources/icon@3x.png">
+# XcodeDebugAny <img width="5%" src="./Resources/icon.png">
 
 It can be easilier debug any process under rootless using Xcode.
 
